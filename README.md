@@ -217,4 +217,4 @@ Guitar Pro is offered as a complete free version, including all features and upd
 Ready to compose your masterpiece? Download Guitar Pro today and unlock your musical potential!
 
 ---
-**Last updated:** 2026-11-02 08:52:40 UTC
+**Last updated:** 2026-11-02 19:10:39 UTC
